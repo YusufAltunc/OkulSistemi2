@@ -1,0 +1,7 @@
+﻿dersad                         sınav1 sınav2 sınav3 proje ortalama                                durum
+------------------------------ ------ ------ ------ ----- --------------------------------------- -----
+MATEMATİK                      75     75     NULL   NULL  NULL                                    NULL
+YAZILIM TASARIMI               88     NULL   NULL   NULL  NULL                                    NULL
+
+(2 row(s) affected)
+
